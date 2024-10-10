@@ -1,7 +1,7 @@
 {
 	"base": {
 		"app_name": "FRE123",
-		"web_host": "https://www.fre123.com",
+		"web_host": "https://pan.668856.xyz",
 		"logo": "https://img.fre123.com/i/2023/11/25/65619e8022505.png"
 	},
 	"seo": {
@@ -38,19 +38,19 @@
 			"is_show": true,
 			"group": {
 				"name": "热点榜单",
-				"url": "https://www.fre123.com/news",
+				"url": "https://pan.668856.xyz/news",
 				"children": [
 					{
 						"name": "新闻热榜",
-						"url": "https://www.fre123.com/news"
+						"url": "https://pan.668856.xyz/news"
 					},
 					{
 						"name": "技术热榜",
-						"url": "https://www.fre123.com/tech"
+						"url": "https://pan.668856.xyz/tech"
 					},
 					{
 						"name": "技术周刊",
-						"url": "https://www.fre123.com/weekly"
+						"url": "https://pan.668856.xyz/weekly"
 					}
 				]
 			}
